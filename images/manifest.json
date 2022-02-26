@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 352,
+    "id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/canvas/",
+    "label" : {
+      "none" : [ "1559_8R174-b" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 11,
+              "height" : 15
+            }, {
+              "width" : 22,
+              "height" : 30
+            }, {
+              "width" : 44,
+              "height" : 60
+            }, {
+              "width" : 88,
+              "height" : 120
+            }, {
+              "width" : 176,
+              "height" : 240
+            }, {
+              "width" : 352,
+              "height" : 480
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 352,
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 480
+          } ],
+          "format" : "image/jpeg",
+          "width" : 352,
+          "id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 480
+        },
+        "target" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/canvas/"
+      } ]
+    } ],
+    "height" : 480
+  }, {
+    "width" : 352,
     "id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1549_8R180-b/canvas/",
     "label" : {
       "none" : [ "1549_8R180-b" ]
