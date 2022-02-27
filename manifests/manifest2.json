@@ -174,6 +174,13 @@
         },
         "on" : "http://8e0420ad-04a6-4107-b9ee-639a2b3ebc22"
       } ],
+      "otherContent": [
+        {
+            "@id": "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations5.json",
+            "@type": "sc:AnnotationList",
+            "label": "Annotations on the 1565 imprints"
+        }
+    ],
       "related" : ""
     }, {
       "@id" : "http://85d97dd9-16f1-4149-9854-bad615ee53d9",
@@ -200,6 +207,13 @@
         },
         "on" : "http://85d97dd9-16f1-4149-9854-bad615ee53d9"
       } ],
+      "otherContent": [
+        {
+            "@id": "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations6.json",
+            "@type": "sc:AnnotationList",
+            "label": "Annotations on the 1571 imprints"
+        }
+    ],
       "related" : ""
     } ]
   } ],
