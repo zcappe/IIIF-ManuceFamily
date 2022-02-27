@@ -1,0 +1,13 @@
+{
+  "id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in zcappe/IIIF-ManuceFamily project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json",
+    "label" : "The Manuce family's imprint"
+  } ]
+}
