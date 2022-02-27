@@ -1,0 +1,179 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Manuce family's imprint",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[A small corpus showing the evolution of the imprint through time and generations]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Photos taken by Zoé Cappe. Source: Bibliothèque de l'école nationale des chartes 8R171, 8R173, 8R174, 8R175, 8R178, 8R180",
+  "sequences" : [ {
+    "@id" : "http://645649a7-175c-4912-8474-5693f3a20d43",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5f7338b0-7626-4a96-88ed-97c61780ae1f",
+      "@type" : "sc:Canvas",
+      "label" : "1521 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://834c7b33-01e1-4c3e-b01a-2fbfc196bc6f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1521_8R178-b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1521_8R178-b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://5f7338b0-7626-4a96-88ed-97c61780ae1f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2d7613a4-91e0-4c17-a630-c01921bdbe2c",
+      "@type" : "sc:Canvas",
+      "label" : "1522 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4818dd9f-e6b6-4378-a76f-89a14fd52f57",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1522_8R175-b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1522_8R175-b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://2d7613a4-91e0-4c17-a630-c01921bdbe2c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2cc75a2f-0398-40ef-9caf-a325f3dd2425",
+      "@type" : "sc:Canvas",
+      "label" : "1549 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0abc4ae-cec1-4f0c-a713-582923f12efe",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1549_8R180-b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1549_8R180-b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://2cc75a2f-0398-40ef-9caf-a325f3dd2425"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b4799314-0b7e-4abf-9422-742ab108ca29",
+      "@type" : "sc:Canvas",
+      "label" : "1559 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://58d41cd6-7658-45e5-b39b-352d9418ba17",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1559_8R174-b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8e0420ad-04a6-4107-b9ee-639a2b3ebc22",
+      "@type" : "sc:Canvas",
+      "label" : "1565 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://50eda45a-bd06-48df-a432-53c52a2f7ca1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1565_8R171-a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1565_8R171-a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://8e0420ad-04a6-4107-b9ee-639a2b3ebc22"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://85d97dd9-16f1-4149-9854-bad615ee53d9",
+      "@type" : "sc:Canvas",
+      "label" : "1571 imprint",
+      "height" : 480,
+      "width" : 352,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fd7ecdd7-3231-4642-b4a0-8e8708ec934e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1571_8R173-b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/images/1571_8R173-b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 480,
+          "width" : 352
+        },
+        "on" : "http://85d97dd9-16f1-4149-9854-bad615ee53d9"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
