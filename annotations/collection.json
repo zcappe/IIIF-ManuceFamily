@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations1.json", "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations2.json" ],
+  "otherContent" : [ "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations1.json" ],
   "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/annotations/collection.json",
   "label" : "All annotations loaded in zcappe/IIIF-ManuceFamily project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
