@@ -141,6 +141,13 @@
         },
         "on" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
       } ],
+      "otherContent": [
+        {
+            "@id": "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations4.json",
+            "@type": "sc:AnnotationList",
+            "label": "Annotations on the 1559 imprints"
+        }
+    ],
       "related" : ""
     }, {
       "@id" : "http://8e0420ad-04a6-4107-b9ee-639a2b3ebc22",
