@@ -75,6 +75,14 @@
         },
         "on" : "http://2d7613a4-91e0-4c17-a630-c01921bdbe2c"
       } ],
+      
+      "otherContent": [
+        {
+            "@id": "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations2.json",
+            "@type": "sc:AnnotationList",
+            "label": "Annotations on the 1522 imprint"
+        }
+    ],
       "related" : ""
     }, {
       "@id" : "http://2cc75a2f-0398-40ef-9caf-a325f3dd2425",
