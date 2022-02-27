@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "very pointy things",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>very pointy things</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "unstable",
+      "@type" : "oa:Tag",
+      "chars" : "unstable"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92812358",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-27T13:28:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645968501695",
+    "dcterms:modified" : "2022-02-27T13:28:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=28,273,246,102"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M27.83868,272.98542h123.06025v0h123.06025v51.14577v51.14577h-123.06025h-123.06025v-51.14577z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_99a23752-139c-45ee-9fc7-0f8c72f0b5f3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"4.66472\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "unstable",
+      "@type" : "oa:Tag",
+      "chars" : "unstable"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "the mean dolphin",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>the mean dolphin</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92812358",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T13:27:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645968454988",
+    "dcterms:modified" : "2022-02-27T13:27:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=124,129,99,210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M124.24295,129.15646h49.59086v0h49.59086v104.79009v104.79009h-49.59086h-49.59086v-104.79009z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0680704-2e19-46d1-956a-ce4057e5b701\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stable",
+      "@type" : "oa:Tag",
+      "chars" : "stable"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"aldus\" family brand",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>\"aldus\" family brand</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92812358",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T13:26:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645968369136",
+    "dcterms:modified" : "2022-02-27T13:26:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=48,195,201,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M48.05248,195.24004h100.51409v0h100.51409v22.76871v22.76871h-100.51409h-100.51409v-22.76871z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ea61e2ee-37d3-4a96-90a1-b94658dc587b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stable",
+      "@type" : "oa:Tag",
+      "chars" : "stable"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dolphin",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>dolphin</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92812358",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T13:25:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645968348021",
+    "dcterms:modified" : "2022-02-27T13:25:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=115,123,112,219"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M114.91351,122.93683h55.8105v0h55.8105v109.45481v109.45481h-55.8105h-55.8105v-109.45481z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e0f87c3a-fc40-4479-8c85-b6270b0d5b9f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "stable",
+      "@type" : "oa:Tag",
+      "chars" : "stable"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anchor",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>anchor</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92812358",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T13:26:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645968401203",
+    "dcterms:modified" : "2022-02-27T13:26:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=20,90,269,297"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M20.06414,89.50632h134.72206v0h134.72206v148.71623v148.71623h-134.72206h-134.72206v-148.71623z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b98982a0-cb4c-4aaa-a2c8-7d3f2f267654\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b4799314-0b7e-4abf-9422-742ab108ca29"
+    } ]
+  } ],
+  "@id" : "https://zcappe.github.io/IIIF-ManuceFamily/annotations/annotations4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
